@@ -1,0 +1,15 @@
+name: biblereference
+description: A dart library to parse text into bible references in multiple locales.
+version: 1.0.0
+repository: https://github.com/MarkIvanDev/biblereference_dart.git
+issue_tracker: https://github.com/MarkIvanDev/biblereference_dart/issues
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  biblebooks: ^1.0.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
